@@ -107,7 +107,7 @@ def analyze_venture_funding(level125_file):
     
     # Use the Linkup client from the main script to make the API call
     from linkup import LinkupClient
-    client = LinkupClient(api_key="a1f49b55-fbd5-4fbe-a630-f86c1ae6d4d1")
+    client = LinkupClient(api_key="")
     
     print(f"\nSearching for venture funding and clinical trial information for companies: {company_names}")
     

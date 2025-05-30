@@ -4,7 +4,7 @@ import os
 import pandas as pd
 
 # Initialize client
-client = LinkupClient(api_key="a1f49b55-fbd5-4fbe-a630-f86c1ae6d4d1")
+client = LinkupClient(api_key=os.getenv("LINKUP_API_KEY"))
 
 # Function to parse the Competition_CD format (e.g., "201709PJT") into year and month
 def parse_competition_code(code):

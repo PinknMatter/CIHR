@@ -1,0 +1,55 @@
+{
+  "researcher": "Weaver, Donald F",
+  "project": "Design and Development of Brain Permeant Indoleamine-2,3-Dioxygenase Inhibitors",
+  "grant_code": "201709PJT",
+  "grant_date": "2017-09",
+  "data": {
+    "primary_institute": "Neuroinflammation and Neurodegenerative Diseases",
+    "level1_ip": [
+      {
+        "title": "Inhibitor Of Indoleamine 2,3-dioxygenase-1 And Methods Of Manufacture And Use Thereof",
+        "type": "patent",
+        "filing_year": 2021,
+        "assignee": "Donald F. Weaver et al.",
+        "description": "Patent application for brain-permeant IDO1 inhibitors relevant to neurological and cancer therapies."
+      },
+      {
+        "title": "Indoleamine 2,3 dioxygenase inhibitors and applications",
+        "type": "patent",
+        "filing_year": 2018,
+        "assignee": "Donald F. Weaver et al.",
+        "description": "Patent covering IDO1 inhibitors with brain permeability and therapeutic applications."
+      }
+    ],
+    "level2_companies": [
+      {
+        "company_name": "Neurochem Inc.",
+        "founding_year": 1990,
+        "industry": "Biotechnology - Alzheimer's therapeutics",
+        "connection": "Co-founded by Donald F. Weaver; develops drugs for Alzheimer's disease including related neuroinflammation pathways."
+      },
+      {
+        "company_name": "Treventis Corp.",
+        "founding_year": 2015,
+        "industry": "Biotechnology - Neurodegenerative therapeutics",
+        "connection": "Co-founded by Donald F. Weaver; focuses on small molecule therapeutics targeting tau pathology in Alzheimer's disease."
+      }
+    ],
+    "level5_exits": [
+      {
+        "company_name": "Neurochem Inc.",
+        "exit_type": "IPO",
+        "exit_year": 2017,
+        "value": "Publicly listed on TSX and NASDAQ",
+        "acquirer": ""
+      }
+    ]
+  },
+  "scores": {
+    "level1": 2,
+    "level2": 2,
+    "level5": 1,
+    "total": 5,
+    "highest_level": 5
+  }
+}

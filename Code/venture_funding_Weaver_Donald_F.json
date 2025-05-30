@@ -1,0 +1,25 @@
+{
+  "researcher": "Weaver, Donald F",
+  "project": "Design and Development of Brain Permeant Indoleamine-2,3-Dioxygenase Inhibitors",
+  "grant_date": "2017-09",
+  "primary_institute": "Neuroinflammation and Neurodegenerative Diseases",
+  "companies_analyzed": "Neurochem Inc., Treventis Corp.",
+  "data": {
+    "level3_series_a": [
+      {
+        "company_name": "Treventis Corp.",
+        "funding_year": 2022,
+        "funding_amount": "$2.97 million",
+        "product_name": "small molecule anti-tau misfolding drug",
+        "clinical_trial_year": null
+      }
+    ],
+    "level4_series_bc": []
+  },
+  "scores": {
+    "level3": 1,
+    "level4": 0,
+    "total": 1,
+    "highest_level": 3
+  }
+}
